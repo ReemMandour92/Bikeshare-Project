@@ -1,0 +1,10 @@
+Numpy array:
+https://www.geeksforgeeks.org/python-numpy/
+
+Find mode of two columns combined.
+https://stackoverflow.com/questions/55719762/how-to-calculate-mode-over-two-columns-in-a-python-dataframe
+
+Pandas.DataFrame.value_counts()
+https://www.w3resource.com/pandas/series/series-value_counts.php#:~:text=Series%20containing%20counts%20of%20unique,Excludes%20NA%20values%20by%20default.
+To remove dtype from value_count() function
+https://stackoverflow.com/questions/29645153/remove-name-dtype-from-pandas-output
